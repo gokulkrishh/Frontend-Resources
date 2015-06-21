@@ -20,7 +20,7 @@ A list of frameworks and libraries I used/want to use for Web Development. List 
 
 1. <a href="http://www.polymer-project.org/" target="_blank">Polymer 1.0</a> - Has been rebuilt from the ground up for speed and efficiency.
 
-
+<br>
 ##### CSS
 
 1. <a href="http://sass-lang.com/" target="_blank">SASS</a> - The most mature, stable, and powerful professional grade CSS extension language in the world.
@@ -29,12 +29,12 @@ A list of frameworks and libraries I used/want to use for Web Development. List 
 
 1. <a href="http://compass-style.org/" target="_blank">Compass</a> - An open source CSS Authoring Framework.
 
-
+<br>
 **[⬆ back to top](#table-of-contents)**
 
 ## Libraries
 
-*Yeoman Generator*
+##### Yeoman Generator
 
 1. <a href="https://github.com/gokulkrishh/generator-smacss" target="_blank">Generator-smacss</a> - Perfectionist yeoman generator that scaffolds out different types of web apps.
 
@@ -42,8 +42,8 @@ A list of frameworks and libraries I used/want to use for Web Development. List 
 
 1. <a href="https://github.com/slara/generator-reveal" target="_blank">Generator-reveal</a> - Yeoman generator for Reveal.js.
 
-
-*Utilities*
+<br>
+##### Utilities
 
 1. <a href="http://callmecavs.github.io/layzr.js/" target="_blank">Layzr.js</a> - A small, fast, modern, and dependency-free library for lazy loading.
 
@@ -55,18 +55,18 @@ A list of frameworks and libraries I used/want to use for Web Development. List 
 
 1. <a href="http://matthewhudson.me/projects/device.js/" target="_blank">Device.js</a> - write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
 
-
-*Sliders*
+<br>
+##### Image Sliders
 
 1. <a href="http://responsiveslides.com/" target="_blank">ResponsiveSlides.js</a> - Simple & lightweight responsive slider plugin (in 1kb).
 
-
-*Data Binding*
+<br>
+##### Data Binding
 
 1. <a href="http://rivetsjs.com/" target="_blank">Rivets</a> - Lightweight and powerful data binding + templating solution for building modern web apps
 
-
-*Mobile*
+<br>
+##### Mobile
 
 1. <a href="http://hammerjs.github.io/" target="_blank">Hammer.js</a> - A javascript library for multi-touch gestures.
 
@@ -74,23 +74,19 @@ A list of frameworks and libraries I used/want to use for Web Development. List 
 
 1. <a href="https://mango.github.io/slideout/" target="_blank">Slideout</a> - A touch slideout navigation menu for your mobile web apps.
 
-
-*Presentation*
+<br>
+##### Presentation
 
 1. <a href="http://lab.hakim.se/reveal-js/" target="_blank">Reveal.js</a> - The HTML Presentation Framework.
 
+<br>
+##### Charts
 
-*Charts*
+1. <a href="http://www.chartjs.org/" target="_blank">Chartjs</a> - Simple HTML5 Charts using the canvas element
 
-1. <a href="http://www.chartjs.org/" target="_blank"></a> - Simple HTML5 Charts using the canvas element
-
-
+<br>
 **[⬆ back to top](#table-of-contents)**
 
-## Helper Functions
-
-
-**[⬆ back to top](#table-of-contents)**
 
 ## Author
 
